@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="100%" src="banner.png">
-
+<p text-align='center' font-size='24px'> I am a Skillfactory student in the data science direction. My specialized education consisted of system analysis, probability theory, mathematical statistics and efficiency assessment) I like to solve interesting problems and study new technologies and approaches to solving them.  I try to improve in the use of new algorithms and clean coding </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borrnbor&theme=onedark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borrnbor&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
