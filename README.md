@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" alt="numpy" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain.svg" alt="pandas" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40" />
+
 </p>
 
 <h2 align="center">
