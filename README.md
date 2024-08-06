@@ -28,6 +28,10 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=borrnbor&theme=onedark&layout=compact">
 </p>
 
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=borrnbor&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
+
 <!--
 **borrnbor/borrnbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
