@@ -18,7 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain.svg" alt="pandas" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
 </p>
 
 <h2 align="center">
