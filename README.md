@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://media.licdn.com/dms/image/D4E12AQHsqGOwsIbvQg/article-cover_image-shrink_720_1280/0/1693358663074?e=2147483647&v=beta&t=PaSbJrEmVWfq2pSp_2dsSkA20YRpDlUEv14NPRNUY7M">
+<img align="right" alt="Coding" width="100%" src="banner.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borrnbor&theme=onedark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borrnbor&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
