@@ -29,5 +29,5 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=borrnbor&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=borrnbor&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
 </p>
