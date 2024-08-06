@@ -23,7 +23,7 @@
  
 <br>
 
-<p display='flex' align-items = "center">
+<p display='flex'>
   <img  src = "https://github-readme-stats.vercel.app/api?username=borrnbor&theme=onedark&show_icons=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=borrnbor&theme=onedark&layout=compact">
 </p>
